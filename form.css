@@ -1,0 +1,236 @@
+
+body{
+		background-color: ghostwhite;
+	}
+
+	img{
+    width: 20%;
+    margin: 10px;
+    margin-left: 550px;
+  }
+
+  .principale{
+  text-align: center;
+  align-items: center;
+  background-color: #fff;
+  border: none;
+    border-top-color: currentcolor;
+    border-top-style: solid;
+    border-top-width: medium;
+    border-right-color: currentcolor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentcolor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+  border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  box-sizing: border-box;
+  margin: 40px 0 0;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 30%;
+  padding: 20px 0 28px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 28px;
+    padding-left: 0px;
+  width: 450px;
+}
+
+
+div{
+	  margin: auto;
+  	  padding: 6px 0px;
+}
+
+.les2 {
+  font-size: 17px;
+  font-size: 14px;
+}
+
+#email,#passw{
+	 background-color: rgba(245, 245, 245, 1);
+}
+
+.text {
+  border: 1px solid;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  background-size: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  height: 45px;
+  width: 400px;
+  
+}
+
+
+a{
+    text-decoration: none;
+  text-align: center;
+}
+
+#a{
+
+  color: white;
+}
+
+.other {
+  border: 1px solid;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  height: 30px;
+  width: 250px;
+  color: dark ;
+  
+}
+
+
+button{
+  background: blue;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+#new{
+  text-align: center;
+  color: black ;
+
+
+}
+
+#meta{
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: 30%;
+}
+
+ul{
+  list-style-type: none;
+}
+
+table{
+  text-align: center;
+  margin-left: 30%;
+}
+
+
+
+@media only screen and (max-width: 768px){
+	
+	
+	body{
+		background-color: ghostwhite;
+	}
+
+
+	img{
+		width: 40%;
+		margin: 10px;
+		margin-left: 200px;
+	}
+
+.principale {
+	text-align: center;
+
+/*  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px, rgba(0, 0, 0, 0.1) 0px 8px 16px;*/
+}
+
+div{
+	  margin: auto;
+  	  padding: 6px 0px;
+}
+
+.les2 {
+  font-size: 17px;
+  font-size: 14px;
+}
+
+#email,#passw{
+	 background-color: rgba(245, 245, 245, 1);
+}
+
+.text {
+  border: 1px solid;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  background-size: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  height: 45px;
+  width: 400px;
+  
+}
+
+.other {
+  border: 1px solid;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  height: 30px;
+  width: 250px;
+  color: dark ;
+  
+}
+
+a{
+		text-decoration: none;
+	text-align: center;
+}
+
+#a{
+
+	color: white;
+}
+
+button{
+  background: blue;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+
+}
+#new{
+	text-align: center;
+	color: black ;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+}
